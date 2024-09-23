@@ -1,8 +1,14 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an Cart Items List website which is based on react useContext Hook which was designed by using React.
 
-Currently, two official plugins are available:
+Demo : https://cart-items-context.netlify.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I created that navigation to courses using React useContext,
+Here, I Understand how React useContext works to manage State within a React application,
+I managed the product data Golbally and accessed all of its components using useContext.
+
+npm run dev
+Runs the app in the development mode.
+Open http://localhost:5174/ to view it in your browser.
+
